@@ -41,4 +41,4 @@ postman load testing, heys, insomnia
 -> 무료로 insomnia load testing 사용해보자
 에러율, sql 병목 확인 및 수정
 
-json - schema
+# json - schema
