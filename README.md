@@ -13,12 +13,15 @@
 
 + 아키텍처 및 배포 방식 고민 - 비용!! & 성능
 
-aws 엘라스틱 서치 등등
++ aws 엘라스틱 서치 등등
 railway render cloudtype 무료 (비즈니스 실패) 
 
-ec2 / rds -> 월 7만원 : 비용을 어떻게 줄일 수 있을까?
++ ec2 / rds -> 월 7만원 : 비용을 어떻게 줄일 수 있을까?
 -> aws apprunner (ip 고정 x) ecr container github action
 & amplify
+
++ aws rds aurora
++ 데이터 베이스가 가진 한계, 트래픽
 
 lambda 메모리? 컴퓨팅 파워? 
 apprunner 비용
