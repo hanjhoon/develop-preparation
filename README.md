@@ -5,13 +5,13 @@
 + 프로젝트 1 - 로그인 있는거 (redux / MUI / SNS login / localstorage / 반응형 / d3js)
 
 # 아키텍처
-database -> serverless
++ database : serverless?
++ db 콜 => 비용
+> 돈을 사용하지 않고 에러 처리 : 클라이언트-> 서버 단에서 확인
++ serverless : 비용 절가 및 대용량 auto scaling - lambda 
++ rds 추세  인스턴스 aws rds aurora serverless v2 (최소비용 4만원)
 
-- serverless : 비용 절가 및 대용량 auto scaling - lambda 
-rds 추세  인스턴스 aws rds aurora serverless v2 (최소비용 4만원)
-
-사이드 프로젝트 (나이브 하지 않게 - 로컬 제작 의미 없음)
-아키텍처 및 배포 방식 고민 - 비용!! 성능
++ 아키텍처 및 배포 방식 고민 - 비용!! & 성능
 
 aws 엘라스틱 서치 등등
 railway render cloudtype 무료 (비즈니스 실패) 
