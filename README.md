@@ -1,5 +1,9 @@
 # develop-preparation
 
++ open api 사용한 프로젝트 2개 배포해보자
+  
++ 프로젝트 1 - 로그인 있는거 (redux / MUI / SNS login / localstorage / 반응형 / d3js)
+
 # 아키텍처
 database -> serverless
 
